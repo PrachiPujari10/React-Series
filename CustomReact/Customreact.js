@@ -1,3 +1,4 @@
+
 function customRender(reactElement, container) {
 
     // 🔴 OLD VERSION (Manual attribute setting)
